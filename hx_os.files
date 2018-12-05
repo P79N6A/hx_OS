@@ -1,0 +1,15 @@
+driver/console.c
+include/common.h
+include/console.h
+include/debug.h
+include/elf.h
+include/multiboot.h
+include/string.h
+include/types.h
+include/vargs.h
+init/entry.c
+kernel/debug/debug.c
+kernel/debug/printk.c
+lib/common.c
+lib/elf.c
+lib/string.c
